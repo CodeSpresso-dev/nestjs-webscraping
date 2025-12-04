@@ -4,9 +4,7 @@ A Web Scraping service built with **NestJS** and **Puppeteer**, designed to extr
 
 - Product Title  
 - Price  
-- Image URL  
-- Product Description  
-- Product Page Link  
+- Image URL
 
 This project demonstrates how to use **headless browser automation** inside a NestJS application to fetch dynamic content from JavaScript-rendered pages.
 
